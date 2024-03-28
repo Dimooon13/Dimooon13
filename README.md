@@ -1,16 +1,14 @@
-### Hi there 👋
+# Привет, я Дима 👋
+Мне 19 лет.Студент ДГТУ. Обучаюсь на 2 курсе. Прошёл курс "Оператор электронно вычислительных систем" и сейчас заканчиваю проходить "Искуственный интеллект".
 
-<!--
-**Dimooon13/Dimooon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Навыки
+*   Знаю основы C++,Java,Python
+*   Знаком с Assemblerom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Контактные данные
+ВК: https://vk.com/losyah42 
+
+Почта: dima.sharuk14@mail.ru
+
+Telegram: @Dimooon13 
