@@ -4,7 +4,7 @@
 
 ### Навыки
 *   Знаю основы C++,Java,Python
-*   Знаком с Assemblerom
+*   Знаком с Assembler
 
 ### Контактные данные
 ВК: https://vk.com/losyah42 
